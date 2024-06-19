@@ -33,6 +33,4 @@ Visualization with Power BI: Transfer key insights and visualizations to Power B
 
 Conclusion
 
-By completing this project, you will gain valuable experience in analyzing financial data, performing statistical analysis, and creating compelling visualizations. Feel free to customize and extend the project to explore additional aspects of Netflix's stock performance.
-
-Happy coding!
+By completing this project, I gained valuable experience in analyzing financial data, performing statistical analysis, and creating compelling visualizations.
