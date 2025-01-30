@@ -2,7 +2,7 @@ Netflix Stock Analysis Project
 
 Introduction
 
-Welcome to the Netflix Stock Analysis project! This project aims to provide a comprehensive analysis of Netflix's stock performance using Jupyter Notebook and Power BI. As a fresher, this project will help you gain hands-on experience in data analysis and visualization.
+Welcome to the Netflix Stock Analysis project! This project aims to provide a comprehensive analysis of Netflix's stock performance using Jupyter Notebook and Power BI. As a fresher, this project helped me gain hands-on experience in data analysis and visualization.
 
 Project Overview
 
