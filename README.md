@@ -27,7 +27,7 @@ Exploratory Data Analysis (EDA): In the EDA section, we explore the data to unde
 
 Statistical Analysis: Conduct statistical analysis to derive meaningful insights from the data. This may involve calculating key statistical measures and performing hypothesis testing.
 
-Machine Learning (Optional): If you are interested in machine learning, this section may include predicting future stock prices using regression models or any other relevant machine learning techniques.
+Machine Learning: predicting future stock prices using regression models and other relevant machine learning techniques.
 
 Visualization with Power BI: Transfer key insights and visualizations to Power BI to create an interactive dashboard. This step will enhance the presentation of results and facilitate better understanding.
 
